@@ -2,7 +2,7 @@
 ### **FloodSAT** is an AI-powered flood detection and analysis system developed by ConCodes during the NASA Space Challenge hackathon.
 
 ## project summary
-#### FloodSAT leverages satellite imagery to identify flooded areas in near real-time. It utilizes a deep learning semantic segmentation model fine-tuned on limited labeled Harmonized Landsat Sentinel-2 (HLS) data. FloodSAT provides an automated flood mapping and monitoring system to empower emergency managers with near real-time flood intelligence for improved situational awareness and response. It also enables new insights into flood patterns to inform community planning and infrastructure design.
+FloodSAT leverages satellite imagery to identify flooded areas in near real-time. It utilizes a deep learning semantic segmentation model fine-tuned on limited labeled Harmonized Landsat Sentinel-2 (HLS) data. FloodSAT provides an automated flood mapping and monitoring system to empower emergency managers with near real-time flood intelligence for improved situational awareness and response. It also enables new insights into flood patterns to inform community planning and infrastructure design.
 
 ## Potential applications
 #### FloodSAT has a wide range of potential applications, including:
